@@ -1,16 +1,7 @@
 section{
-    background-color: darkred;
-}
-img{
-    width: 300px;
-    height: 300px;
-}
-.img1{
-    object-fit: fill;
-}
-.img2{
-    object-fit: cover;
-}
-.img3{
-    object-fit: contain;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/785/284/983/music-pink-floyd-wallpaper-preview.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
